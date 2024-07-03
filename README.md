@@ -39,6 +39,4 @@ Soy desarrollador con experiencia en Java, Angular, Ionic y PHP. Me apasiona cre
 ## ¡Vamos a colaborar!
 Si estás interesado en colaborar en proyectos interesantes o tienes alguna pregunta sobre mis proyectos, no dudes en contactarme.
 
----
 
-Puedes personalizar este README.md según tus proyectos específicos, enlaces y cualquier otra información relevante que desees destacar.
