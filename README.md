@@ -1,6 +1,4 @@
-¡Claro! Aquí tienes un ejemplo de README.md para tu cuenta de GitHub:
 
----
 
 # ¡Hola! Soy William Chimborazo
 
