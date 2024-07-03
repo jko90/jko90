@@ -9,6 +9,20 @@ Soy desarrollador con experiencia en Java, Angular, Ionic y PHP. Me apasiona cre
 
 ## Proyectos destacados
 
+### Proyecto 1: Aplicaciones web del ejército ecuatoriano
+- **Descripción:** BackEnd de proyectos.
+- **Tecnologías utilizadas:** Java, Angular.
+- **Enlace:** Privados por acurdo de confidencialidad.
+
+### Proyecto 2: Crip-Tecnología
+- **Descripción:** Aplicación web para manejo y gestión de la empresa.
+- **Tecnologías utilizadas:** PHP, Angular.
+- **Enlace:** https://criptecnologia.com/
+
+### Proyecto 2: Sistema de inventario
+- **Descripción:** Sistema completo de inventario.
+- **Tecnologías utilizadas:** PHP, javascript, HTML.
+- **Enlace:** https://darwin.criptecnologia.com/inventario/vistas/login.html
 
 ## Habilidades
 
@@ -17,10 +31,11 @@ Soy desarrollador con experiencia en Java, Angular, Ionic y PHP. Me apasiona cre
 - Ionic
 - PHP
 - Git
+- Javascript
 
 ## Contacto
 
-
+- Tarjeta de presentación: https://criptecnologia.com/javier/
 - Correo electrónico: willschimborazo@gmail.com
 
 ## ¡Vamos a colaborar!
