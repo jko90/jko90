@@ -1,16 +1,31 @@
-## Hi there 👋
+¡Claro! Aquí tienes un ejemplo de README.md para tu cuenta de GitHub:
 
-<!--
-**jko90/jko90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# ¡Hola! Soy William Chimborazo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+Soy desarrollador con experiencia en Java, Angular, Ionic y PHP. Me apasiona crear soluciones innovadoras y robustas para problemas complejos. Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades de programación.
+
+## Proyectos destacados
+
+
+## Habilidades
+
+- Java
+- Angular
+- Ionic
+- PHP
+- Git
+
+## Contacto
+
+
+- Correo electrónico: willschimborazo@gmail.com
+
+## ¡Vamos a colaborar!
+Si estás interesado en colaborar en proyectos interesantes o tienes alguna pregunta sobre mis proyectos, no dudes en contactarme.
+
+---
+
+Puedes personalizar este README.md según tus proyectos específicos, enlaces y cualquier otra información relevante que desees destacar.
